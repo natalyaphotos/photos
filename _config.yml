@@ -17,7 +17,7 @@ title: Natalia Tabatchenko
 description: >- # this means to ignore newlines until "baseurl:"
   Pictures
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://natalyaphotos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://natalyaphotos.github.io/photos" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 #github_username: natalyaphotos
 
